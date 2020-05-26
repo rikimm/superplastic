@@ -1,0 +1,728 @@
+{
+    "Series_1": [
+        {
+            "id":1,
+            "name": "Black lotus",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Lotus_1600x.jpg?v=1572626263",
+            "size": 3
+        },
+        {
+            "id":2,
+            "name": "",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Bran_3a750675-0b4c-4c3c-9a5a-fedf18086bbf_1600x.jpg?v=1572626263",
+            "size": 3
+        },
+        {
+            "id":3,
+            "name": "",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/2Bit_1600x.jpg?v=1572626263",
+            "size": 3
+        },
+        {
+            "id":4,
+            "name": "",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Tentaclanky_Tears_1600x.jpg?v=1572626263",
+            "size": 3
+        },
+        {
+            "id":5,
+            "name": "",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Treats_1600x.jpg?v=1572626263",
+            "size": 3
+        },
+        {
+            "id":6,
+            "name": "",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Garth_1600x.jpg?v=1572626263",
+            "size": 3
+        },
+        {
+            "id":7,
+            "name": "",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Space_Janky_1600x.jpg?v=1572626263",
+            "size": 3
+        },
+        {
+            "id":8,
+            "name": "",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Bo_NI-TO_1600x.jpg?v=1572626263",
+            "size": 3
+        },
+        {
+            "id":9,
+            "name": "",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/FTN_76324dd9-fd82-4fb3-be4b-18e2ad5f82ac_1600x.jpg?v=1572626264",
+            "size": 3
+        },
+        {
+            "id":10,
+            "name": "",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/watcher_1600x.jpg?v=1572626264",
+            "size": 3
+        },
+        {
+            "id":11,
+            "name": "",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Redicchi_1600x.jpg?v=1572626264",
+            "size": 3
+        },
+        {
+            "id":12,
+            "name": "",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Lucky_Bunny_1600x.jpg?v=1572626264",
+            "size": 3
+        },
+        {
+            "id":13,
+            "name": "",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Mr_Kabutomushi_1600x.jpg?v=1572626264",
+            "size": 3
+        },
+        {
+            "id":14,
+            "name": "",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Be_Nice_1600x.jpg?v=1572626264",
+            "size": 3
+        },
+        {
+            "id":15,
+            "name": "",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Lucky_Bucky_1600x.jpg?v=1572626264",
+            "size": 3
+        },
+        {
+            "id":16,
+            "name": "",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/2657/4310/products/bran-by-pete-fowler-118-superplastic-janky_2000x.png?v=1550515051",
+            "size": 3
+        },
+        {
+            "id":17,
+            "name": "",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/2657/4310/products/secret-be-nice-gid-by-bubi-au-yeung-superplastic-janky_2000x.jpg?v=1550515062",
+            "size": 3
+        },
+        {
+            "id":18,
+            "name": "",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/2657/4310/products/secret-space-janky-by-dalek-bearbrick-100_2000x.jpg?v=1550515060",
+            "size": 3
+        },
+        {
+            "id":19,
+            "name": "",
+            "type": "S1",
+            "image": "https://cdn.shopify.com/s/files/1/2657/4310/products/secret-white-lotus-by-junko-mizuno-superplastic-janky_2000x.jpg?v=1550515059",
+            "size": 3
+        },
+        {
+            "id":20,
+            "name": "",
+            "type": "S1",
+            "image": "",
+            "size": 8
+        }
+       
+        
+    ],
+    "Series_2": [
+        {
+            "id":1,
+            "name": "Chocotoy",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/chocotoy_1600x.jpg?v=1575997883",
+            "size": 3
+        },
+        {
+            "id":2,
+            "name": "",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/jorRos_1600x.jpg?v=1575997883",
+            "size": 3
+        },
+        {
+            "id":3,
+            "name": "",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/wattle_1600x.jpg?v=1575997883",
+            "size": 3
+        },
+        {
+            "id":4,
+            "name": "",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/caramelaw_1600x.jpg?v=1575997883",
+            "size": 3
+        },
+        {
+            "id":5,
+            "name": "",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/addFuel_1600x.jpg?v=1575997883",
+            "size": 3
+        },
+        {
+            "id":6,
+            "name": "",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/2petalRose_1600x.jpg?v=1575997883",
+            "size": 3
+        },
+        {
+            "id":7,
+            "name": "",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/huck_1600x.jpg?v=1575997883",
+            "size": 3
+        },
+        {
+            "id":8,
+            "name": "",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/jamesGroman_1600x.jpg?v=1575997883",
+            "size": 3
+        },
+        {
+            "id":9,
+            "name": "",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/peteFowler_1600x.jpg?v=1575997883",
+            "size": 3
+        },
+        {
+            "id":10,
+            "name": "",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/julieWest_1600x.jpg?v=1575997883",
+            "size": 3
+        },
+        {
+            "id":11,
+            "name": "",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/seen_1600x.jpg?v=1575997883",
+            "size": 3
+        },
+        {
+            "id":12,
+            "name": "",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/squink_1600x.jpg?v=1575997883",
+            "size": 3
+        },
+        {
+            "id":13,
+            "name": "",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/tafo_1600x.jpg?v=1575997883",
+            "size": 3
+        },
+        {
+            "id":14,
+            "name": "",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0059/3985/5448/products/JulieWest_CW2_Front-720x720-a28cfa1c-9380-4e15-ba57-2f99c46cae37_1080x.png?v=1587936482",
+            "size": 3
+        },
+        {
+            "id":15,
+            "name": "",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0059/3985/5448/products/JamesGroman_CW2_Front-720x720-b725385c-4fa0-4726-b76b-d7f5be102dde_1080x.png?v=1587936472",
+            "size": 3
+        },
+        {
+            "id":16,
+            "name": "",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0059/3985/5448/products/2PetalRose_CW2_Front-720x720-7b4603a8-103d-40b3-a109-75415c8a85f4_1080x.png?v=1587936489",
+            "size": 3
+        },
+        {
+            "id":17,
+            "name": "",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0059/3985/5448/products/JorRos_CW2_Front-720x720-e4e09c11-fb1c-4c73-8aa4-fd1cd8f3cf55_1080x.png?v=1587936513",
+            "size": 3
+        },
+        {
+            "id":18,
+            "name": "",
+            "type": "S2",
+            "image": "https://bountyxp.gg/wp-content/uploads/2019/12/11_original.jpeg",
+            "size": 3
+        },
+        {
+            "id":19,
+            "name": "",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0059/3985/5448/products/guggimonV1front-720x720-00361bd2-163a-4fbb-9d23-f9ce4c86e063_1080x.png?v=1587936518",
+            "size": 3
+        },
+        {
+            "id":20,
+            "name": "",
+            "type": "S2",
+            "image": "https://cdn.shopify.com/s/files/1/0059/3985/5448/products/Rarest_Front_mask-720x720-6b645a4f-0b64-46d1-b875-11b4caa02ad6_1080x.png?v=1587936521",
+            "size": 3
+        },
+        {
+            "id":21,
+            "name": "",
+            "type": "S2",
+            "image": "",
+            "size": 8
+        }
+       
+        
+    ],
+    "Kings": [
+        {
+            "id":1,
+            "name": "The First",
+            "type": "King",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/King_Janky_1_1000x.jpg?v=1572626270",
+            "size": 3
+        },
+        {
+            "id":2,
+            "name": "The Second",
+            "type": "King",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Kign_Janky_2nd_1000x.jpg?v=1572626272",
+            "size": 3
+        },
+        {
+            "id":3,
+            "name": "The Third",
+            "type": "King",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/King_Janky_3_1000x.jpg?v=1572626273",
+            "size": 3
+        },
+        {
+            "id":4,
+            "name": "The Fourth",
+            "type": "King",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/kj4-34R_1000x.jpg?v=1575583673",
+            "size": 3
+        },
+        {
+            "id":5,
+            "name": "The Fourth Storm",
+            "type": "King",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/kj4.5-34R_1000x.jpg?v=1572626270",
+            "size": 3
+        },
+        {
+            "id":6,
+            "name": "The Fifth",
+            "type": "King",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/kj5-34R_1000x.jpg?v=1575583673",
+            "size": 3
+        },
+        {
+            "id":7,
+            "name": "The 5.5",
+            "type": "King",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/kj5.5_R34_1000x.jpg?v=1588599480",
+            "size": 3
+        },
+        {
+            "id":8,
+            "name": "The 6",
+            "type": "King",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/kj6_R34_1000x.jpg?v=1588599485",
+            "size": 3
+        },
+        {
+            "id":8,
+            "name": "The 6.5",
+            "type": "King",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/3in-kj6-websiteProductImage-R34_1000x.jpg?v=1587067775",
+            "size": 3
+        },
+        {
+            "id":0,
+            "name": "",
+            "type": "King",
+            "image": "",
+            "size": 8
+        }
+       
+        
+    ],
+    "Singles":[
+        {
+            "id":1,
+            "name": "Kid Whoo Army",
+            "type": "Single",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/3in-kingJanky4-whooKid-websiteProductImage-R34_1000x.jpg?v=1588599483",
+            "size": 3
+        },
+        {
+            "id":2,
+            "name": "Future Janky",
+            "type": "Single",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/3in-aokiNeonFuture-websiteProductImage-R34_1000x.jpg?v=1586452580",
+            "size": 3
+        },
+        {
+            "id":3,
+            "name": "PlayHouse Janky",
+            "type": "Single",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/3in-aokiPlayHouse-websiteProductImage-R34_1000x.jpg?v=1586452581",
+            "size": 3
+        },
+        {
+            "id":0,
+            "name": "",
+            "type": "Single",
+            "image": "",
+            "size": 8
+        }
+    ],
+    "SuperJanky":[
+        {
+            "id":1,
+            "name": "DREMON",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/8in-moriChax-pink-websiteProductImages-R34_f688ab9b-ceaf-48ba-b0e3-e80dec6bf591_1600x.jpg?v=1589481289",
+            "size": 8
+        },
+        {
+            "id":2,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/8in-julieWest-faunaBlack-website-R34_600x.jpg?v=1587067772",
+            "size": 8
+        },
+        {
+            "id":3,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/8in-grandChamaco-greenNopalito-website-R34_600x.jpg?v=1576786033",
+            "size": 8
+        },
+        {
+            "id":4,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/8in-grandChamaco-pinkNopalito-website-R34_600x.jpg?v=1576786032",
+            "size": 8
+        },
+        {
+            "id":5,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/8in-jamesGroman-crocodilius-website-R34_600x.jpg?v=1586452575",
+            "size": 8
+        },
+        {
+            "id":6,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/8in-jasonLimon-particle1-website-R34_600x.jpg?v=1586452574",
+            "size": 8
+        },
+        {
+            "id":7,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/8in-sket-icyPurple-websiteProduct-R34_1000x.jpg?v=1588599481",
+            "size": 8
+        },
+        {
+            "id":8,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/8in-moriChax-GID-websiteProductImages-R34_1000x.jpg?v=1572626247",
+            "size": 8
+        },
+        {
+            "id":9,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/8in-moriChax-pink-websiteProductImages-R34_1000x.jpg?v=1572626245",
+            "size": 8
+        },
+        {
+            "id":10,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/8in-sket-jungleGreen-websiteProduct-R34_1000x.jpg?v=1586452570",
+            "size": 8
+        },
+        {
+            "id":41,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/8in-sket-torontoRed-websiteProduct-R34_1000x.jpg?v=1580247721",
+            "size": 8
+        },
+        {
+            "id":11,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/8in-sket-krankyPink-webR34_1000x.jpg?v=1587067765",
+            "size": 8
+        },
+        {
+            "id":12,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/8in-addFuel-fragilBlue-websiteProductImage-R34_c10fcd9f-e500-412e-af43-c0cabe059ab9_1000x.jpg?v=1572626243",
+            "size": 8
+        },
+        {
+            "id":13,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/junkoLotus-white-R34_1000x.jpg?v=1572626296",
+            "size": 8
+        },
+        {
+            "id":14,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Mizuno_Lotus_1000x.jpg?v=1572626274",
+            "size": 8
+        },
+        {
+            "id":15,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/fortressRed-R34_1000x.jpg?v=1572626267",
+            "size": 8
+        },
+        {
+            "id":16,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/fortressBlue-R34_1000x.jpg?v=1572626267",
+            "size": 8
+        },
+        {
+            "id":17,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/fortressRed-R34_c3d90f81-7e02-4f90-a592-a812bfef43ed_1000x.jpg?v=1572626239",
+            "size": 8
+        },
+        {
+            "id":18,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/jorRos-R34_1000x.jpg?v=1572626280",
+            "size": 8
+        },
+        {
+            "id":19,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/gloomy-R34_1000x.jpg?v=1572626246",
+            "size": 8
+        },
+        {
+            "id":20,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Ovnik_3QTR_Right_1000x.jpg?v=1572626281",
+            "size": 8
+        },
+        {
+            "id":21,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/ovnikPleiades-R34_1000x.jpg?v=1572626282",
+            "size": 8
+        },
+        {
+            "id":22,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/8in-addFuel-fragilBlue-websiteProductImage-R34_028ae77e-5482-4918-bfdf-81d6224d1ead_1000x.jpg?v=1575583667",
+            "size": 8
+        },
+        {
+            "id":23,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Fashion_Guggi_1000x.jpg?v=1575583668",
+            "size": 8
+        },
+        {
+            "id":24,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Fashion_Sewer_3QTR_Right_1000x.jpg?v=1572626242",
+            "size": 8
+        },
+        {
+            "id":25,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Fashion_Horror_1000x.jpg?v=1572626241",
+            "size": 8
+        },
+        {
+            "id":26,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Glow_Ro-Mu-Lo_1000x.jpg?v=1579796358",
+            "size": 8
+        },
+        {
+            "id":27,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Blue_Eye_Super_1000x.jpg?v=1572626235",
+            "size": 8
+        },
+        {
+            "id":28,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Red_Eye_Front_1000x.jpg?v=1572626290",
+            "size": 8
+        },
+        {
+            "id":29,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Mcbess_White_1000x.jpg?v=1572626279",
+            "size": 8
+        },
+        {
+            "id":30,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Mcbess_f1e46a20-5e3d-496f-8574-a0b6b00d0288_1000x.jpg?v=1572626278",
+            "size": 8
+        },
+        {
+            "id":31,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/gorillaz-2D-websiteProductImages-R34_1000x.jpg?v=1588599482",
+            "size": 8
+        },
+        {
+            "id":32,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/guggi-worklay-websiteProductImage-R34_1000x.jpg?v=1586452569",
+            "size": 8
+        },
+        {
+            "id":33,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/guggiR34_e6385ccc-b94a-41e3-8643-6f2c8ea6b008_1000x.jpg?v=1586452562",
+            "size": 8
+        },
+        {
+            "id":34,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/guggiR34_1000x.jpg?v=1575583735",
+            "size": 8
+        },
+        {
+            "id":35,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/peteFowler-henchDesertResearch-websiteImage-R34_1000x.jpg?v=1586452566",
+            "size": 8
+        },
+        {
+            "id":36,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Hench_3QTR_Right_1000x.jpg?v=1575583736",
+            "size": 8
+        },
+        {
+            "id":37,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/henchR34_1000x.jpg?v=1575583737",
+            "size": 8
+        },
+        {
+            "id":38,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/maxCashR34_1000x.jpg?v=1575583739",
+            "size": 8
+        },
+        {
+            "id":39,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/maxCashR34_8ee9adfa-48de-4e1d-90fc-121318dd3e1c_1000x.jpg?v=1575583738",
+            "size": 8
+        },
+        {
+            "id":40,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/maxCashR34_e6a2fd18-4845-4af4-b892-e25c64cac757_1000x.jpg?v=1575583740",
+            "size": 8
+        },
+        {
+            "id":0,
+            "name": "",
+            "type": "Superjanky",
+            "image": "",
+            "size": 8
+        }
+        
+    ],
+    "UberJanky":[
+        {
+            "id":1,
+            "name": "YELLOW",
+            "type": "Uberjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/15in-uberYellow-websiteProductImage-R34_1600x.jpg?v=1588599478",
+            "size": 15
+        },
+        {
+            "id":2,
+            "name": "White",
+            "type": "Uberjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/15in-uberPink-websiteProductImage-R34_818a6e5f-e4c0-4d7f-9142-62d7930f8c5c_1000x.jpg?v=1572626297",
+            "size": 15
+        },
+        {
+            "id":3,
+            "name": "Pink",
+            "type": "Uberjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/15in-uberPink-websiteProductImage-L34_1000x.jpg?v=1572626288",
+            "size": 15
+        },
+        {
+            "id":0,
+            "name": "",
+            "type": "Uberjanky",
+            "image": "",
+            "size": 8
+        }
+    ]
+}

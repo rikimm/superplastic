@@ -1,0 +1,42 @@
+<div class="container-fluid mb-5">
+    <div class="row">
+
+        <div class="col-12 top mb-3">
+            <a href="https://superplastic.co/" target="_blank">
+                <img src="./assets/img/top_bar.png" alt="">
+            </a>
+        </div>
+        <div class="col-12 text-center">
+            <h2 class="text-center">How to us</h2>
+            <p>
+                Selecciona los Jankys que tienes, una ves terminado de seleccionar instala el este plugins
+                <a
+                    href="https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl">aquí</a>,
+                sigue las instrucciones para sacar la captura de pantalla con los Jankys seleccionados.
+
+            </p>
+        </div>
+        <div class="col-6" *ngFor="let title of titles">
+            <h3 class="titles p-3">
+                {{title | replace}}
+            </h3>
+            <div class="row">
+                <ng-container *ngFor="let janky of jankys[title]">
+                    <div class="col-6 col-md-2 position-relative pointer mb-4" (click)="jankySelect(title,janky.id)" *ngIf="janky.image">
+                        <app-janky [item]="janky" [select$]="selectSubject"></app-janky>
+                    </div>
+                </ng-container>
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="fixed-bottom pt-3 pb-3 border-top d-none">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <button class="float-right btn btn-info" (click)="createImage()">Crear</button>
+            </div>
+        </div>
+    </div>
+</div>
