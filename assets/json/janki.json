@@ -616,6 +616,17 @@
             "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Mcbess_f1e46a20-5e3d-496f-8574-a0b6b00d0288_1000x.jpg?v=1572626278",
             "size": 8
         },
+       
+        {
+            "id":0,
+            "name": "",
+            "type": "Superjanky",
+            "image": "",
+            "size": 8
+        }
+        
+    ],
+    "Superplastic_X":[
         {
             "id":31,
             "name": "",
@@ -685,15 +696,8 @@
             "type": "Superjanky",
             "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/maxCashR34_e6a2fd18-4845-4af4-b892-e25c64cac757_1000x.jpg?v=1575583740",
             "size": 8
-        },
-        {
-            "id":0,
-            "name": "",
-            "type": "Superjanky",
-            "image": "",
-            "size": 8
         }
-        
+
     ],
     "UberJanky":[
         {
