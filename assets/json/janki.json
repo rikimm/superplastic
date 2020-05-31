@@ -477,6 +477,21 @@
             "size": 8
         },
         {
+            "id":42,
+            "name": "",
+            "type": "Superjanky",
+            "image": "./assets/img/aqua.jpg",
+            "size": 8
+        },
+       
+        {
+            "id":43,
+            "name": "",
+            "type": "Superjanky",
+            "image": "./assets/img/mint.jpg",
+            "size": 8
+        },
+        {
             "id":41,
             "name": "",
             "type": "Superjanky",
@@ -495,6 +510,20 @@
             "name": "",
             "type": "Superjanky",
             "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/8in-addFuel-fragilBlue-websiteProductImage-R34_c10fcd9f-e500-412e-af43-c0cabe059ab9_1000x.jpg?v=1572626243",
+            "size": 8
+        },
+        {
+            "id":45,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/8in-addFuel-fragilBlue-websiteProductImage-L34_1600x.jpg?v=1572626243",
+            "size": 8
+        },
+        {
+            "id":46,
+            "name": "",
+            "type": "Superjanky",
+            "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/squink34R_1600x.jpg?v=1572626234",
             "size": 8
         },
         {
@@ -518,6 +547,7 @@
             "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/fortressRed-R34_1000x.jpg?v=1572626267",
             "size": 8
         },
+       
         {
             "id":16,
             "name": "",
@@ -551,6 +581,13 @@
             "name": "",
             "type": "Superjanky",
             "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Ovnik_3QTR_Right_1000x.jpg?v=1572626281",
+            "size": 8
+        },
+        {
+            "id":44,
+            "name": "",
+            "type": "Superjanky",
+            "image": "./assets/img/rotterdam.webp",
             "size": 8
         },
         {
@@ -623,7 +660,6 @@
             "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Mcbess_f1e46a20-5e3d-496f-8574-a0b6b00d0288_1000x.jpg?v=1572626278",
             "size": 8
         },
-       
         {
             "id":0,
             "name": "",
@@ -704,6 +740,7 @@
             "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/maxCashR34_e6a2fd18-4845-4af4-b892-e25c64cac757_1000x.jpg?v=1575583740",
             "size": 8
         }
+       
 
     ],
     "UberJanky":[
