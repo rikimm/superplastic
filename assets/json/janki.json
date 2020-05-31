@@ -463,6 +463,13 @@
             "size": 8
         },
         {
+            "id":47,
+            "name": "",
+            "type": "Superjanky",
+            "image": "./assets/img/gloomy_white.jpeg",
+            "size": 8
+        },
+        {
             "id":9,
             "name": "",
             "type": "Superjanky",
