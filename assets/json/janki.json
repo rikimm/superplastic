@@ -263,13 +263,7 @@
             "image": "https://cdn.shopify.com/s/files/1/0059/3985/5448/products/JorRos_CW2_Front-720x720-e4e09c11-fb1c-4c73-8aa4-fd1cd8f3cf55_1080x.png?v=1587936513",
             "size": 3
         },
-        {
-            "id":18,
-            "name": "",
-            "type": "S2",
-            "image": "https://bountyxp.gg/wp-content/uploads/2019/12/11_original.jpeg",
-            "size": 3
-        },
+       
         {
             "id":19,
             "name": "",
@@ -395,6 +389,13 @@
             "name": "PlayHouse Janky",
             "type": "Single",
             "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/3in-aokiPlayHouse-websiteProductImage-R34_1000x.jpg?v=1586452581",
+            "size": 3
+        },
+        {
+            "id":18,
+            "name": "",
+            "type": "S2",
+            "image": "https://bountyxp.gg/wp-content/uploads/2019/12/11_original.jpeg",
             "size": 3
         },
         {
