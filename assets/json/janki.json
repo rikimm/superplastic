@@ -686,72 +686,72 @@
     ],
     "Superplastic_X":[
         {
-            "id":31,
+            "id":1,
             "name": "",
-            "type": "Superjanky",
+            "type": "Superplastic_X",
             "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/gorillaz-2D-websiteProductImages-R34_1000x.jpg?v=1588599482",
             "size": 8
         },
         {
-            "id":32,
+            "id":2,
             "name": "",
-            "type": "Superjanky",
+            "type": "Superplastic_X",
             "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/guggi-worklay-websiteProductImage-R34_1000x.jpg?v=1586452569",
             "size": 8
         },
         {
-            "id":33,
+            "id":3,
             "name": "",
-            "type": "Superjanky",
+            "type": "Superplastic_X",
             "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/guggiR34_e6385ccc-b94a-41e3-8643-6f2c8ea6b008_1000x.jpg?v=1586452562",
             "size": 8
         },
         {
-            "id":34,
+            "id":4,
             "name": "",
-            "type": "Superjanky",
+            "type": "Superplastic_X",
             "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/guggiR34_1000x.jpg?v=1575583735",
             "size": 8
         },
         {
-            "id":35,
+            "id":5,
             "name": "",
-            "type": "Superjanky",
+            "type": "Superplastic_X",
             "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/peteFowler-henchDesertResearch-websiteImage-R34_1000x.jpg?v=1586452566",
             "size": 8
         },
         {
-            "id":36,
+            "id":6,
             "name": "",
-            "type": "Superjanky",
+            "type": "Superplastic_X",
             "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/Hench_3QTR_Right_1000x.jpg?v=1575583736",
             "size": 8
         },
         {
-            "id":37,
+            "id":7,
             "name": "",
             "type": "Superjanky",
             "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/henchR34_1000x.jpg?v=1575583737",
             "size": 8
         },
         {
-            "id":38,
+            "id":8,
             "name": "",
             "type": "Superjanky",
             "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/maxCashR34_1000x.jpg?v=1575583739",
             "size": 8
         },
         {
-            "id":39,
+            "id":9,
             "name": "",
-            "type": "Superjanky",
+            "type": "Superplastic_X",
             "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/maxCashR34_8ee9adfa-48de-4e1d-90fc-121318dd3e1c_1000x.jpg?v=1575583738",
             "size": 8
         },
         {
-            "id":40,
+            "id":10,
             "name": "",
-            "type": "Superjanky",
+            "type": "Superplastic_X",
             "image": "https://cdn.shopify.com/s/files/1/0088/7557/3306/products/maxCashR34_e6a2fd18-4845-4af4-b892-e25c64cac757_1000x.jpg?v=1575583740",
             "size": 8
         }
